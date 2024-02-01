@@ -1,3 +1,12 @@
 baseURL = 'http://pranavk.site/'
 languageCode = 'en-us'
 title = 'Pranav K'
+
+paginate = 2
+
+[params]
+    description = "writing about technology, philosophy and art"
+    dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+    category = "categories"
