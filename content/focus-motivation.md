@@ -1,5 +1,5 @@
 ---
-title: "Controlling dopamine for motivation, focus and satisfaction"
+title: "How I try to handle my focus"
 date: 2024-01-31T19:11:00+05:30
 description: "Controlling dopamine for motivation, focus and satisfaction"
 image: "/images/focus.webp"
