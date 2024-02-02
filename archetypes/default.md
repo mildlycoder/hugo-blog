@@ -3,8 +3,8 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 description: ""
-image: ""
+image: "/images/"
 categories: []
-author : ""
+author : "Pranav K"
 ---
 
