@@ -3,7 +3,7 @@ title: "Mindfulness"
 date: 2024-02-02T16:18:05+05:30
 draft: false
 description: "what is mindfullness, short definition"
-image: "/images/mindfullness.webp"
+image: "/images/mindfulness.webp"
 categories: ["meditation", "mindfulness", "note", "mind"]
 author : "Pranav K"
 ---
