@@ -133,6 +133,11 @@ nav .search-btn {
   align-items: center;
 }
 
+.pagination .active{
+ text-decoration: underline;
+ font-weight: bold;
+}
+
 .item-text {
   display: flex;
   flex-direction: column;
@@ -269,11 +274,13 @@ nav .search-btn {
 
   .pagination {
     display: flex;
-    gap: 1rem;
+    gap: 1.5rem;
     font-size: 16px;
     list-style: none;
     margin-block: 2rem;
-    width: 85%;
+    width: 95%;
+    justify-content: flex-start;
+    align-items: center;
     margin-inline: auto;
   }
   
