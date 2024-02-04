@@ -166,6 +166,7 @@ nav .search-btn {
   margin: auto;
   gap: .75rem;
   flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 .single-cover {
